@@ -10,7 +10,10 @@
     "react-redux": "^5.0.7",
     "redux-actions": "^2.3.2",
     "react-router-dom": "^4.2.2",
-    "redux-thunk": "^2.2.0"
+    "redux-thunk": "^2.2.0",
+    "echarts": "^4.1.0",
+    "react-grid-layout": "^0.16.6",
+    "react-resizable": "^1.7.5"
   },
   "scripts": {
     "start": "react-scripts start",
